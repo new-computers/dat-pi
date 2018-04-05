@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # dat-rpi
-=======
-# Embedded Dat
->>>>>>> 65fc54200adab7de67bf7496cb0120d5e0342fb2
 
 Ongoing development of a simple plug &amp; play dat-pi server to improve accessibility to self hosted dats.
 
