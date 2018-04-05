@@ -1,4 +1,4 @@
-# Standalone Dat Servers
+# Embedded Dat
 
 In this repo you can find a collection of guides on how to self host [Dat](https://docs.datproject.org/) tools on Raspberry Pi and other services. Feel free to submit PRs and open issues for ideas or errors you run in to.
 
