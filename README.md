@@ -6,10 +6,11 @@ Current project:
 [Seeder](https://github.com/new-computers/seeder) -- (mirror only)
 
 Discussion Topic:
-[https://github.com/new-computers/dat-pi/issues/3][https://github.com/new-computers/dat-pi/issues/3]
+[https://github.com/new-computers/dat-pi/issues/3](https://github.com/new-computers/dat-pi/issues/3)
 
 Related Projects:
 [https://github.com/hundredrabbits/weather.local](https://github.com/hundredrabbits/weather.local)
+
 [https://github.com/beakerbrowser/homebase](https://github.com/beakerbrowser/homebase)
 
 ## Why self host
